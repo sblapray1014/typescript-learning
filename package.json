@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sblapray1014/typescript-learning/issues"
   },
-  "homepage": "https://github.com/sblapray1014/typescript-learning#readme"
+  "homepage": "https://github.com/sblapray1014/typescript-learning#readme",
+  "dependencies": {
+    "npm": "^6.9.0"
+  }
 }
